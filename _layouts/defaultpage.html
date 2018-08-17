@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% include head.html %}
+
+<body>
+
+<section class="hero is-info is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <img src="{{ site.baseurl }}/assets/images/logo.png" style="width:80px;">
+      <hr style="height:0pt; visibility:hidden;" />
+      <h1 class="title">
+        Bacharelado em Ciência da Computação
+      </h1>
+    	<h1 class="subtitle">
+        Universidade Federal da Bahia
+    	</h1>
+    </div>
+  </div>
+</section>
+
+<div class="main-container">
+  <div class="tile is-ancestor is-vertical">
+
+
+    <nav class="nav has-shadow">
+
+      <div class="nav-left">
+
+        <a href="/" class="nav-item">
+          <span class="icon">
+            <i class="fa fa-home" aria-hidden="true" title="Homepage"></i>
+          </span>
+        </a>
+
+        <div class="nav-item" id="searchFieldNav">
+          <div class="field has-addons">
+            <p class="control">
+              <input class="input is-small" type="text" placeholder="Find an article" id="search-text">
+            </p>
+            <p class="control">
+              <a class="button is-dark is-small" onclick="searchHandler();">
+                Search
+              </a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="nav-right nav-menu" id='nav-menu'>
+	<!-- <a href="/archive" class="nav-item">Archive</a> -->
+        <div class="dropdown">
+          <button class="dropbtn">Sobre</button>
+          <div class="dropdown-content">
+            <a href="/bcc.html" class="nav-item">O BCC</a>
+            <a href="/estrutura.html" class="nav-item">Estrutura do Curso</a>
+            <a href="/egresso.html" class="nav-item">Perfil do Egresso</a>
+            <a href="/grade.html" class="nav-item">Grade Curricular</a>
+            <a href="/manual.html" class="nav-item">Manual do Aluno</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <button class="dropbtn">Colegiado</button>
+          <div class="dropdown-content">
+            <a href="/representantes.html" class="nav-item">Representantes</a>
+            <a href="/atendimento.html" class="nav-item">Atendimento ao Estudante</a>
+            <a href="/secretaria.html" class="nav-item">Secretaria</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <button class="dropbtn nav-item">Normas</button>
+          <div class="dropdown-content">
+            <a href="/regulamentos.html" class="nav-item">Regulamentos</a>
+            <a href="/procedimentos.html" class="nav-item">Procedimentos</a>
+            <a href="/orientacao.html" class="nav-item">Orientação Acadêmica</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <!--<button class="dropbtn"><a href="/contato">Normas</a></button>-->
+          <a href="/contato.html" class="dropbtn nav-item">Contato</a>
+        </div>
+      	<!--<a href="/contato" class="dropbtn nav-item">Contato</a>
+        <a href="/links" class="nav-item">Links</a>-->
+      </div>
+
+      <span class="nav-toggle" id="nav-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+    </nav>
+
+    <div class="tile is-parent">
+
+    	<div class="tile is-8 is-child main" style="width:100%;">
+          <span></span>
+
+            {{ content }}
+
+      </div>
+
+      
+
+    </div>
+
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <sub>
+        Instituto de Matemática e Estatística - UFBA</br>
+        Av. Adhemar de Barros, s/n, Campus Universitário de Ondina CEP: 40.170-110 
+      </sub>
+    </div>
+  </div>
+</footer>
+
+<!-- js -->
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+<script src="{{ site.baseurl }}/assets/js/typewriter.js"></script>
+</body>
+</html>

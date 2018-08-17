@@ -1,0 +1,278 @@
+/*
+    Import League Gothic <3
+*/
+
+/*====================================================================================*/
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+  display: block;
+  max-width: 900px;
+  height: 100%;
+  max-height: 300px;
+  margin: 0 auto;
+}
+
+.slideshow-container img {
+  width:900px;
+  height:300px;
+  object-fit: cover;
+}
+/* Next & previous buttons */
+.prev, .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+}
+/* Position the "next button" to the right */
+.next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+	background-color: rgba(0,0,0,0.8);
+}
+/* Caption text */
+.text {
+	color: #f2f2f2;
+	font-size: 15px;
+	padding: 8px 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center;
+  background: rgba(0,0,0,0.7);
+}
+
+.mySlides caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    background: rgba(0,0,0,0.7);
+    text-align: center;
+    color: #fff; 
+    padding: 10px;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+	cursor: pointer;
+	height: 13px;
+	width: 13px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+	background-color: #717171;
+}
+/* Fading animation */
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 2s;
+	animation-name: fade;
+	animation-duration: 2s;
+}
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+  }
+
+.pagination a {    
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.pagination {
+    text-align: center;
+ }
+
+ /*DROPDOWN*/
+.dropbtn {
+    background-color: white;
+    color: #7a7a7a;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    text-align: left;
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 230px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #7a7a7a;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #e3e3e3}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #c4f2ff;
+    color: #363636;
+}
+
+/*===============================================================================*/
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('leaguegothic-regular-webfont.eot');
+    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('leaguegothic-regular-webfont.woff') format('woff'),
+    url('leaguegothic-regular-webfont.ttf') format('truetype'),
+    url('leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.main-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.container {
+    text-align: center;
+}
+
+/* for mobile screens otherwise it messes up the nav*/
+#searchFieldNav {
+    width: 65%;
+}
+
+h1.title > span {
+    font-family: "League Gothic", "Arial Narrow", Arial, sans-serif;
+    margin-bottom: 1.75rem;
+    font-size: 1.5em;
+}
+
+.subtitle {
+    font-size: 0.80em;
+    margin-top: -1.0rem;
+}
+
+.post {
+    margin-bottom: 1em;
+}
+
+.nice-title {
+    font-size: larger;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+
+.nice-text {
+    font-family: "Open Sans", sans-serif;
+}
+
+.card-content {
+    padding: 0 0 1em;
+}
+
+.fa-heart:hover {
+    color: red;
+}
+
+.footer {
+    padding: 3rem 1.5rem 3rem;
+}
+
+.post-title {
+    font-size: x-large;
+    font-family: Roboto, sans-serif;
+}
+
+.post-meta {
+    font-family: "Open Sans", sans-serif;
+    font-size: small;
+}
+
+.post-text {
+    font-family: "Open Sans", sans-serif;
+    white-space: normal;
+    word-break: keep-all;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.post-text > p {
+    margin-bottom: 1em;
+}
+
+/* sorry God. Just once */
+.sidebar {
+    padding: 0 0.75rem 0.75rem 0.75rem !important;
+}
+
+.box {
+    padding: 0.75rem;
+    margin-bottom: 0.75rem;
+    white-space: normal;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+a {
+    color: #57A3E8;
+}

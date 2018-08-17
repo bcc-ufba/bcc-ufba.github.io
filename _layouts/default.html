@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% include head.html %}
+
+<body>
+
+<section class="hero is-info is-bold">
+  <div class="hero-body">
+    <div class="container">
+      <img src="{{ site.baseurl }}/assets/images/logo.png" style="width:80px;">
+      <hr style="height:0pt; visibility:hidden;" />
+      <h1 class="title">
+        Bacharelado em Ciência da Computação
+      </h1>
+      <h1 class="subtitle">
+        Universidade Federal da Bahia
+      </h1>
+    </div>
+  </div>
+</section>
+
+<div class="main-container">
+  <div class="tile is-ancestor is-vertical">
+
+
+    <nav class="nav has-shadow">
+
+      <div class="nav-left">
+
+        <a href="/" class="nav-item">
+          <span class="icon">
+            <i class="fa fa-home" aria-hidden="true" title="Homepage"></i>
+          </span>
+        </a>
+
+        <div class="nav-item" id="searchFieldNav">
+          <div class="field has-addons">
+            <p class="control">
+              <input class="input is-small" type="text" placeholder="Find an article" id="search-text">
+            </p>
+            <p class="control">
+              <a class="button is-dark is-small" onclick="searchHandler();">
+                Search
+              </a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="nav-right nav-menu" id='nav-menu'>
+  <!-- <a href="/archive" class="nav-item">Archive</a> -->
+        <div class="dropdown">
+          <button class="dropbtn">Sobre</button>
+          <div class="dropdown-content">
+            <a href="/bcc.html" class="nav-item">O BCC</a>
+            <a href="/estrutura.html" class="nav-item">Estrutura do Curso</a>
+            <a href="/egresso.html" class="nav-item">Perfil do Egresso</a>
+            <a href="/grade.html" class="nav-item">Grade Curricular</a>
+            <a href="/manual.html" class="nav-item">Manual do Aluno</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <button class="dropbtn">Colegiado</button>
+          <div class="dropdown-content">
+            <a href="/representantes.html" class="nav-item">Representantes</a>
+            <a href="/atendimento.html" class="nav-item">Atendimento ao Estudante</a>
+            <a href="/secretaria.html" class="nav-item">Secretaria</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <button class="dropbtn nav-item">Normas</button>
+          <div class="dropdown-content">
+            <a href="/regulamentos.html" class="nav-item">Regulamentos</a>
+            <a href="/procedimentos.html" class="nav-item">Procedimentos</a>
+            <a href="/orientacao.html" class="nav-item">Orientação Acadêmica</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <!--<button class="dropbtn"><a href="/contato">Normas</a></button>-->
+          <a href="/contato.html" class="dropbtn nav-item">Contato</a>
+        </div>
+        <!--<a href="/contato" class="dropbtn nav-item">Contato</a>
+        <a href="/links" class="nav-item">Links</a>-->
+      </div>
+
+      <span class="nav-toggle" id="nav-toggle">
+          <span></span>
+          <span></span>
+          <span></span>
+    </nav>
+
+    <div class="tile is-parent">
+
+  <div class="tile is-8 is-child main">
+
+
+    <div class="slideshow-container" id="slideshowid">
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/banner.png">
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/maratona1.jpeg">
+        <div class="text">Equipe "Robélio e seus Teclados" ficou em 1<sup>o</sup> lugar na 
+  Maratona de Programação em 2016 na fase nacional e 51<sup>o</sup> lugar na fase mundial</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/robocode.jpg">
+        <div class="text">Equipe UFBA tirou em 1<sup>o</sup> lugar na competição de 
+Robocode em 2017</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/sala1.jpg">
+        <div class="text">Auditório Maria José Zezé de Oliveira - Possui 108 lugares, área climatizada, computador, projetor com tela de projeção eletrônica, elevador para PNE.</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/sala2.jpg">
+        <div class="text">Laboratório de ensino 140 - O laboratório possui 30 lugares para os alunos, um computador para o docente, área climatizada, projetor com tela de projeção eletrônica.</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/sala3.jpg">
+        <div class="text">Laboratório de ensino 143 - O laboratório possui 40 lugares para os alunos, um computador para o docente, área climatizada, projetor com tela de projeção eletrônica.</div>
+      </div>
+
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/sala4.jpg">
+        <div class="text">Laboratório de ensino 144 - O laboratório possui 25 lugares para os alunos, um computador para o docente, área climatizada, projetor com tela de projeção eletrônica.</div>
+      </div>
+      
+      <div class="mySlides fade">
+        <img src="{{ site.baseurl }}/assets/images/sala5.jpg">
+        <div class="text">Salas de aula da pós-graduação - A área da pós-graduação possui 5 salas com  área climatizada, projetor com tela de projeção eletrônica.</div>
+      </div>
+
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+    </div>
+    <br>
+
+    <div style="text-align:center" id="dotid">
+      <span class="dot"></span>
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+      <span class="dot"></span> 
+    </div>
+
+    <script>
+    var slideIndex = 0;
+    showSlides();
+    var slides,dots;
+
+    function plusSlides(position) {
+        slideIndex += position;
+        if (slideIndex > slides.length) {slideIndex = 1}
+        else if(slideIndex < 1){slideIndex = slides.length}
+        for (i = 0; i < slides.length; i++) {
+           slides[i].style.display = "none";  
+        }
+        for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+
+          }
+      slides[slideIndex-1].style.display = "block";  
+      dots[slideIndex-1].className += " active";
+        }
+
+    function currentSlide(index) {
+        if (index > slides.length) {index = 1}
+        else if(index < 1){index = slides.length}
+        for (i = 0; i < slides.length; i++) {
+           slides[i].style.display = "none";  
+        }
+        for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+          }
+      slides[index-1].style.display = "block";  
+      dots[index-1].className += " active";
+        }
+
+    function showSlides() {
+        var i;
+        slides = document.getElementsByClassName("mySlides");
+        dots = document.getElementsByClassName("dot");
+        for (i = 0; i < slides.length; i++) {
+           slides[i].style.display = "none";  
+        }
+        slideIndex++;
+        if (slideIndex> slides.length) {slideIndex = 1}    
+        for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+        }
+        slides[slideIndex-1].style.display = "block";  
+        dots[slideIndex-1].className += " active";
+        setTimeout(showSlides, 8000); // Change image every 8 seconds
+    }
+
+    </script>
+      <span></span>
+
+        {{ content }}
+
+      </div>
+
+      <div class="tile is-4 is-child" >
+        <div class="tile is-parent is-vertical sidebar" >
+
+          <div class="tile is-child widget" >
+
+            <div class="card" >
+              <header class="card-header" >
+                <p class="card-header-title nice-title">
+                  Recent Posts
+                </p>
+              </header>
+              <div class="card-content">
+                <div class="content nice-text" id="lateral">
+                  <ul>
+                  {% for post in site.posts limit:3 %}
+                  <li><a href="{{ post.url }}">
+                    {{ post.title }}
+                  </a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="tile is-child widget">
+            <div class="card">
+              <header class="card-header">
+                <p class="card-header-title nice-title">
+                  Links úteis
+                </p>
+              </header>
+              <div class="card-content">
+                <div class="content nice-text">
+                  <ul>
+                    
+                    <li>
+                      <a href="https://www.ufba.br/" target="_blank">Universidade Federal da Bahia</a>
+                    </li>
+                    <li>
+                      <a href="http://www.liccomp.ufba.br/" target="_blank">Licenciatura de Computação UFBA</a>
+                    </li>
+                    <li>
+                      <a href="http://wiki.dcc.ufba.br/BSI/WebHome" target="_blank">Sistema de Informação UFBA</a>
+                    </li>
+                    <li>
+                      <a href="http://ime.ufba.br/" target="_blank">Instituto de Matemática e Estatística</a>
+                    </li>
+                    
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+</div>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <sub>
+        Instituto de Matemática e Estatística - UFBA</br>
+        Av. Adhemar de Barros, s/n, Campus Universitário de Ondina CEP: 40.170-110 
+      </sub>
+    </div>
+  </div>
+</footer>
+
+<!-- js -->
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+<script src="{{ site.baseurl }}/assets/js/typewriter.js"></script>
+</body>
+</html>
