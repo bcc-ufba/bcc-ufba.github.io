@@ -24,5 +24,5 @@ Até 2017, os regulamentos para aproveitamentos de estudos, estágio, trancament
 [aproveitamentoopt]:https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWlvd2prd3FkfGd4OjIyMTllOTdmMzUxYjlhZDI
 [aproveitamentocomp]:https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWlvd2prd3FkfGd4OjJiN2QyNjg5MDg4ZjhhM2M
 [estagio]:https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWlvd2prd3FkfGd4OjFkYTg1NDc4ZDJhMjBlN2I
-[trancamento]:https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWlvd2prd3FkfGd4OjFkYTg1NDc4ZDJhMjBlN2I
+[trancamento]:/files/RegulamentoTrancamento-BCC.pdf
 [quebra]:https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxqZWlvd2prd3FkfGd4OjI4MDMzMTFiMjBlOTM5MDk
