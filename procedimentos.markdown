@@ -13,7 +13,7 @@ A matrícula se dá mais ou menos 15 dias antes de cada semestre. Ela se inicia 
 
 Para a confecção do seu Trabalho de Conclusão de Curso, utilize o seguinte [Modelo][modelo].
 
-[modelo]https://www.overleaf.com/read/rybpyccvpznf
+[modelo]:https://www.overleaf.com/read/rybpyccvpznf
 
 <br>
 #### **Colação de grau**
