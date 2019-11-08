@@ -9,6 +9,13 @@ A matrícula se dá mais ou menos 15 dias antes de cada semestre. Ela se inicia 
 
 <br>
 
+#### **Trabalho de conclusão de curso**
+
+Para a confecção do seu Trabalho de Conclusão de Curso, utilize o seguinte [Modelo][modelo].
+
+[modelo]https://www.overleaf.com/read/rybpyccvpznf
+
+<br>
 #### **Colação de grau**
 
 Ao final de cada semestre, o coordenador do curso envia um email com uma tabela para que os alunos que pretendem colar grau no semestre seguinte preencham. No término do prazo para preenchimento, o coordenador analisará a situação de cada aluno, contactando os alunos que ainda não têm condição de se formar. Após a definição dos prováveis concluintes na tabela, o coordenador solicitará aos alunos que preencham um formulário específico para entrega ao Núcleo de Avaliação Curricular (NAC). Em seguida, os nomes validados serão incluídos no Sistema Acadêmico (SIAC), para que os alunos tenham prioridade na matrícula. Os próximos passos para a colação de grau são:
