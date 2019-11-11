@@ -9,4 +9,11 @@ O seu orientador acadêmico é definido com base no seu número de matrícula. A
 
 [Orientação Acadêmica 2019.2][orientadores20192]
 
+Você e se orientador podem utilizar a ferramenta experimental [OrientaAí][orientaai] para acompanhamento e controle das suas orientações.
+Em caso de dúvida, entre em contato com [Naara Bispo Musse Ferreira][emailNaara].
+
+[emailNaara]:mailto:naara.musse@gmail.com
+
+[orientaai]:http://orientaai.herokuapp.com/
+
 [orientadores20192]:https://docs.google.com/spreadsheets/d/e/2PACX-1vROEsP2T-JVcjf1urRNudQzDRunyhC1sTKDAc1PwCfuvDEzsqo67gnxYMkFSGcXfXVNNicWKl8faA1H/pubhtml
