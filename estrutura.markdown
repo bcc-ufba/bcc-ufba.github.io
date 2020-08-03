@@ -8,7 +8,3 @@ O currículo do curso tem um eixo central, obrigatório para todos os alunos, co
 * **Áreas de concentração:** São estruturadas através de componentes curriculares que especializam algumas áreas da computação.
 * **Perfis complementares:** Os perfis estruturam áreas afins da computação em unidades coerentes de conhecimento através de componentes curriculares que abordam conteúdos relacionados com a área em questão.
 * **Disciplinas livres:** São disciplinas que têm relação com matérias da computação ou com matérias de formação complementar que não estão organizadas segundo áreas de concentração nem perfis complementares.
-
-Projeto pedagógico da nova reforma curricular, aprovado em 28 de setembro de 2011. Clique [aqui][link].
-
-[link]:/files/projeto-pedagogico.pdf
