@@ -9,6 +9,20 @@ A matrícula se dá mais ou menos 15 dias antes de cada semestre. Ela se inicia 
 
 <br>
 
+#### **Aproveitamento de estudos**
+
+* [Requerimento de estudos][optativa] - usado para aproveitamento de carga horária optativa
+* [Requerimento de aproveitamento de atividade complementar][complementar]
+
+[optativa]: https://supac.ufba.br/sites/supac.ufba.br/files/requerimento_escolar.doc
+[complementar]:/files/requerimento-carga-horaria-complementar.docx
+
+Consulte o [regulamento do curso](regulamentos) para entender quais atividades podem ser aproveitadas e qual a documentação necessária para cada tipo de atividade.
+
+Durante o semestre letivo suplementar, os requerimentos para aproveitamento de carga horária complementar devem ser enviados por e-mail para o colegiado (<ccc@ufba.br>), enquanto os requerimentos para aproveitamento de carga horária optativa devem ser enviados para o CEAG (<ceagmat@ufba.br>).
+
+<br>
+
 #### **Trabalho de conclusão de curso**
 
 Para a confecção do seu Trabalho de Conclusão de Curso, utilize o seguinte [Modelo][modelo].
