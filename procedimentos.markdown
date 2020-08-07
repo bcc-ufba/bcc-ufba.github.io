@@ -53,7 +53,7 @@ Declarações, comprovantes de matrícula e termos de compromisso de estágio de
 Antes de realizar o requerimento, o aluno deve ler o [regulamento][link], nos capítulos que tratam sobre Estágio e Carga Horária Complementar. Um dos pré-requisitos para abertura do requerimento para aproveitamento de carga horária é a inclusão dos seguintes documentos: 
 
 * Termo de compromisso assinado pela empresa e instituição; da parte da instituição, é obrigatório se ter a assinatura do coordenador do curso. É importante notar que o termo de compromisso deve ser analisado pelo CEAG para verificar se há convênio entre UFBA e empresa. Em não havendo, o documento não será assinado
-* Relatório de avaliação do estagiário - realizado ao final do estágio.
+* [Relatório de avaliação do estagiário](https://docs.google.com/document/d/1T6Mvjf2kFYHnl1ocYnDzriwg9Cdk1JYpPLZdKt_JLrA/edit) - realizado ao final do estágio.
 * Portanto, é importante, seguir estritamente o que é determinado pelo regulamento do curso para não ter problemas com aproveitamento de carga horária de estágio. 
 
 <br>
