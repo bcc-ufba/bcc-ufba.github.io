@@ -9,6 +9,7 @@ O regulamento geral do curso pode ser baixado [aqui][link].
 
 Documentos complementares:
 
+* Resolução 001/2020: [Monitoria no Semestre Letivo Suplementar](files/resolucao-001-2020-monitoria-sls.pdf)
 * [Quebra de pré-requisito][quebra]
 * [Dilatação de prazo máximo][dilatacao]
 
