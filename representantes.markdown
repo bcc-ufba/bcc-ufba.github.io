@@ -19,6 +19,7 @@ title: Representantes
 * [Marcos Ennes Barreto][prof10] (Departamento de Ciência da Computação)
 * Marcelo Passos (Departamento de Matemática)
 * Gilberto Pereira Sassi (Departamento de Estatística)
+* Raphael Silva do Rosario (Instituto de Física)
 
 <br>
 
