@@ -57,6 +57,6 @@ title: Representantes
 [prof10]:https://wiki.dcc.ufba.br/DCC/ProfMarcosBarreto
 [prof11]:https://wiki.dcc.ufba.br/DCC/ProfKarlApazaAguero
 [prof12]:https://wiki.dcc.ufba.br/DCC/ProfVaninhaVieira
-[prof14]https://wiki.dcc.ufba.br/DCC/ProfViniciusPetrucci
+[prof14]:https://wiki.dcc.ufba.br/DCC/ProfViniciusPetrucci
 
 
