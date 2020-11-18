@@ -29,6 +29,8 @@ Para a confecção do seu Trabalho de Conclusão de Curso, utilize o seguinte [M
 
 [modelo]:https://www.overleaf.com/read/rybpyccvpznf
 
+A versão final do TCC, aprovada pela banca examinadora e pelo orientador, deverá ser depositada no RI-UFBA, comunidade do IME, [subcomunidade do DCC]:https://repositorio.ufba.br/ri/handle/ri/17544
+
 <br>
 #### **Colação de grau**
 
