@@ -1,0 +1,15 @@
+
+---
+title: Time da Computação-UFBA ficou em 4<sup>o</sup> lugar Maratona de Programação da SBC (Fase 1)
+layout: post
+---
+
+Em 2020, competimos com quatro equipes na Fase 1 e uma delas se classificou para a Etapa Final, a ser realizada em 2021. 
+Parabéns para as quatro equipes!
+
+A equipe classificada foi a _UFBA - União Fiasco_, composta por Thalles Medrado, Vinicius Hirschle, Bernardo Salmeron, e o quase-baiano-coach Prof. Rubisley Lemes (DCC-UFBA). 
+
+Estaremos na torcida em 2021.
+Veja mais <a href="http://maratona.sbc.org.br/primfase20.html" target="_blank">aqui</a>.
+
+
