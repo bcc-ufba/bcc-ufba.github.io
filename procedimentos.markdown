@@ -5,7 +5,8 @@ title: Procedimentos
 
 #### **Matrícula**
 
-A matrícula se dá mais ou menos 15 dias antes de cada semestre. Ela se inicia com a Matrícula WEB, e em seguida com duas fases presenciais: matrícula presencial e de ajustes. Ao final de cada semestre, o coordenador do curso envia um email com os procedimentos de matrícula com um link com datas específicas.
+A matrícula se dá mais ou menos 15 dias antes de cada semestre. Ela se inicia com a Matrícula WEB, e em seguida com duas fases presenciais: matrícula presencial e de ajustes. 
+Ao final de cada semestre, o coordenador do curso envia um email com os procedimentos de matrícula e datas específicas.
 
 <br>
 
@@ -30,7 +31,7 @@ Para a confecção do seu Trabalho de Conclusão de Curso, utilize o seguinte [M
 [modelo]:https://www.overleaf.com/read/rybpyccvpznf
 
 A versão final do TCC, aprovada pela banca examinadora e pelo orientador, deverá ser depositada no RI-UFBA, 
-comunidade do Instituto de Matemática e Estatística, subcomunidade do Departamento de Ciência da Computação, [TCC em Ciência da Computação][riufba].
+na comunidade [Departamento de Ciência da Computação - TCC em Ciência da Computação][riufba].
 
 [riufba]:https://repositorio.ufba.br/ri/handle/ri/17544
 
@@ -49,7 +50,7 @@ Ao final de cada semestre, o coordenador do curso envia um email com uma tabela 
 
 #### **Assinaturas**
 
-Declarações, comprovantes de matrícula e termos de compromisso de estágio devem ser deixados no CEAG para posterior assinatura do coordenador que deve ser feita em até 48 horas. Comprovantes de matrícula só serão assinados se impressos no próprio CEAG, e portanto o estudante não deve imprimir-lo. Termos de estágios devem ser deixados no CEAG para verificação de convênio. Se não houver convênio, o estudante deve solicitar à empresa contratante que procure o setor de convênios para que este possa orientar como se conveniar com a UFBA. O estudante também deve verificar as regras para aproveitamento do estágio no regulamento do BCC, neste link [aqui][link].
+Declarações, comprovantes de matrícula e termos de compromisso de estágio devem ser deixados no CEAG para posterior assinatura do coordenador que deve ser feita em até 48 horas. Comprovantes de matrícula só serão assinados se impressos no próprio CEAG, e portanto o estudante não deve imprimí-lo. Termos de estágios devem ser deixados no CEAG para verificação de convênio. Se não houver convênio, o estudante deve solicitar à empresa contratante que procure o setor de convênios para que este possa orientar como se conveniar com a UFBA. O estudante também deve verificar as regras para aproveitamento do estágio no regulamento do BCC, neste link [aqui][link].
 
 <br>
 
@@ -57,7 +58,7 @@ Declarações, comprovantes de matrícula e termos de compromisso de estágio de
 
 Antes de realizar o requerimento, o aluno deve ler o [regulamento][link], nos capítulos que tratam sobre Estágio e Carga Horária Complementar. Um dos pré-requisitos para abertura do requerimento para aproveitamento de carga horária é a inclusão dos seguintes documentos: 
 
-* Termo de compromisso assinado pela empresa e instituição; da parte da instituição, é obrigatório se ter a assinatura do coordenador do curso. É importante notar que o termo de compromisso deve ser analisado pelo CEAG para verificar se há convênio entre UFBA e empresa. Em não havendo, o documento não será assinado
+* Termo de compromisso assinado pela empresa e instituição; da parte da instituição, é obrigatório se ter a assinatura do coordenador do curso. É importante notar que o termo de compromisso deve ser analisado pelo CEAG para verificar se há convênio entre UFBA e empresa. Em não havendo, o documento não será assinado.
 * [Relatório de avaliação do estagiário](https://docs.google.com/document/d/1T6Mvjf2kFYHnl1ocYnDzriwg9Cdk1JYpPLZdKt_JLrA/edit) - realizado ao final do estágio.
 * Portanto, é importante, seguir estritamente o que é determinado pelo regulamento do curso para não ter problemas com aproveitamento de carga horária de estágio. 
 
