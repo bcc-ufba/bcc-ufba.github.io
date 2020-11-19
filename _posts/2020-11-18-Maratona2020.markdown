@@ -1,5 +1,5 @@
 ---
-title: Time da Computação-UFBA ficou em 4<sup>o</sup> lugar na XXV Maratona de Programação da SBC (Fase 1)
+title: Time da Computação-UFBA em 4<sup>o</sup> lugar na XXV Maratona de Programação da SBC (Fase 1)
 layout: post
 ---
 
@@ -12,8 +12,10 @@ Em 2020, competimos com quatro equipes na Fase 1 da XXV Maratona de Programaçã
 
 *Parabéns para as quatro equipes!*
 
-A equipe classificada em 4<sup>o</sup> lugar foi a [UFBA] - União Fiasco, composta por Thalles Medrado, Vinicius Hirschle, Bernardo Salmeron, e o quase-baiano-coach Prof. Rubisley Lemes (DCC-UFBA). 
+A equipe classificada em 4<sup>o</sup> lugar foi a [UFBA] - União Fiasco, composta por Thalles Medrado, Vinicius Hirschle, Bernardo Salmeron, e o quase-baiano-coach [Prof Rubisley Lemes][profcoach] (DCC-UFBA). 
 Os detalhes estão <a href="http://maratona.sbc.org.br/primfase20.html" target="_blank">aqui</a>.
+
+[profcoach]:http://wiki.dcc.ufba.br/DCC/ProfRubisLemes
 
 Estaremos na torcida pela União Fiasco na  
 <a href="http://maratona.sbc.org.br/final20.html" target="_blank">Final Brasileira</a>!
