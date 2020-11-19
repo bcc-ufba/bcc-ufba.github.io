@@ -1,5 +1,5 @@
 ---
-title: Manual de estilo acadêmico - trabalhos de conclusão de curso, dissertações e teses
+title: Novo Manual de Estilo Acadêmico (2019) está no RI-UFBA
 layout: post
 ---
 
