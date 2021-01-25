@@ -22,7 +22,6 @@ Consulte o [regulamento do curso](regulamentos) para entender quais atividades p
 
 Durante o semestre letivo suplementar, os requerimentos para aproveitamento de carga horária complementar devem ser enviados por e-mail para o colegiado (<ccc@ufba.br>), enquanto os requerimentos para aproveitamento de carga horária optativa devem ser enviados para o CEAG (<ceagmat@ufba.br>).
 
-<br>
 
 #### **Trabalho de conclusão de curso**
 
@@ -35,7 +34,6 @@ na comunidade [Departamento de Ciência da Computação - TCC em Ciência da Com
 
 [riufba]:https://repositorio.ufba.br/ri/handle/ri/17544
 
-<br>
 
 #### **Colação de grau**
 
@@ -57,15 +55,15 @@ Declarações, comprovantes de matrícula e termos de compromisso de estágio de
 
 #### **Assinatura de termo de compromisso de estágio**
 
-Antes de realizar o requerimento, o aluno deve ler as [normas complementares sobre Estágio][estagio] do  do Instituto de Matemática e Estatística e o [regulamento do BCC][link], nos capítulos que tratam sobre Estágio e Carga Horária Complementar. Um dos pré-requisitos para abertura do requerimento para aproveitamento de carga horária é a inclusão dos seguintes documentos: 
+Antes de realizar o requerimento, o aluno deve ler as [normas complementares sobre Estágio][estagio] do Instituto de Matemática e Estatística (IME) e o [regulamento do BCC][link], nos capítulos que tratam sobre Estágio e Carga Horária Complementar. Um dos pré-requisitos para abertura do requerimento para aproveitamento de carga horária é a inclusão dos seguintes documentos: 
 
 * Termo de compromisso assinado pela empresa e instituição; da parte da instituição, é obrigatório se ter a assinatura do coordenador do curso. É importante notar que o termo de compromisso deve ser analisado pelo CEAG para verificar se há convênio entre UFBA e empresa. Em não havendo, o documento não será assinado.
 * [Relatório de avaliação do estagiário](https://docs.google.com/document/d/1T6Mvjf2kFYHnl1ocYnDzriwg9Cdk1JYpPLZdKt_JLrA/edit) - realizado ao final do estágio.
-* Portanto, é importante, seguir estritamente o que é determinado pelo regulamento do curso para não ter problemas com aproveitamento de carga horária de estágio. 
+* Portanto, é importante, seguir estritamente o que é determinado pelas normas do IME e pelo regulamento do curso para não ter problemas com aproveitamento de carga horária de estágio. 
 
 <br>
 
 **IMPORTANTE:** Estágios realizados sem a assinatura do termo de compromisso, atestado pelo convênio entre UFBA e empresa, não serão aceitos para aproveitamento de carga horária complementar
 
 [link]:/regulamentos.html
-[estagio]:/files/
+[estagio]:/files/Resoluo_01_2020_Estgio_no_obrigatrio_Assinada.pdf
