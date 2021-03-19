@@ -5,7 +5,7 @@ title: Orientação Acadêmica
 
 A orientação acadêmica tem como objetivo contribuir para a integração dos estudantes à vida universitária, contemplando aspectos pedagógicos, itinerário curricular, informações sobre políticas e normas da Universidade, assistência estudantil, participação em projetos e eventos, realização de estágios e aconselhamento acadêmico-profissional. As atividades de orientação acadêmica serão executadas por professores/as orientadores/as ligados ao curso/programa ao qual o estudante esteja vinculado. 
 
-A/o sua/seu orientador/a acadêmico/a é definido com base no seu número de matrícula. Acesse o link abaixo, descubra quem é seu/sua orientador/a acadêmico/a e entre em contato sempre que precisar de orientação e apoio:
+Acesse o link abaixo, descubra quem é seu/sua orientador/a acadêmico/a e entre em contato sempre que precisar de orientação e apoio:
 
 [Orientação Acadêmica][orientadoresbcc]
 
