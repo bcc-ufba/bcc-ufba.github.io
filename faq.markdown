@@ -5,16 +5,23 @@ title: FAQ
 
 ## Questões Frequentes
 
-   1. Como eu entro em contato com a Coordenação do Colegiado e/ou Secretaria?
+Q1 Como eu entro em contato com a Coordenação do Colegiado e/ou Secretaria?
 
 Informações em [Contato][contato].
 
 [contato]: https://bcc-ufba.github.io/contato.html
 
-   2. Como fazer aproveitamentos de estudos?
+Q2 Como eu solicito aproveitamentos de estudos?
 
 Informações em [Procedimentos][procedimentos].
 
-[procedimentos:]  https://bcc-ufba.github.io/procedimentos.html
+[procedimentos]: https://bcc-ufba.github.io/procedimentos.html, seção "Aproveitamento de estudos".
+
+Q3 Como eu solicito autorização para Estágio não-obrigatório?
+
+Informações em [Procedimentos][procedimentos], seção "Assinatura de termo de compromisso de estágio".
+
+[procedimentos]: https://bcc-ufba.github.io/procedimentos.html
+
 
 
