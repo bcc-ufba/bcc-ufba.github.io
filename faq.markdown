@@ -13,9 +13,9 @@ Informações em [Contato][contato].
 
 Q2 Como eu solicito aproveitamentos de estudos?
 
-Informações em [Procedimentos][procedimentos].
+Informações em [Procedimentos][procedimentos], seção "Aproveitamento de estudos".
 
-[procedimentos]: https://bcc-ufba.github.io/procedimentos.html, seção "Aproveitamento de estudos".
+[procedimentos]: https://bcc-ufba.github.io/procedimentos.html
 
 Q3 Como eu solicito autorização para Estágio não-obrigatório?
 
