@@ -5,7 +5,7 @@ title: FAQ
 
 ## Questões Frequentes
 
-Q1 Como eu entro em contato com a Coordenação do Colegiado e/ou Secretaria?
+__Q1 Como eu entro em contato com a Coordenação do Colegiado e/ou Secretaria?__
 
 Informações em [Contato][contato].
 
