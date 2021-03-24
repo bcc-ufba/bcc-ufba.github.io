@@ -12,4 +12,5 @@ Telefone: (71) 3283-6172 (ramal 6172)
     
 #### **Secretaria CEAG**
 
+Email: ceagmat@ufba.br  
 Tel: (71) 3283-6337 / 3283-6340 / 3283-6341
