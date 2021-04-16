@@ -4,7 +4,7 @@ title: Representantes
 ---
 
 
-#### **Coordenação**
+### **Coordenação**
 
 * Coordenador: [Maycon Leone Maciel Peixoto][prof15] (Departamento de Ciência da Computação)
 
@@ -12,7 +12,7 @@ title: Representantes
 
 <br>
 
-#### **Representantes docentes**
+### **Representantes docentes**
 
 * [Antonio Apolinário][prof3] (Departamento de Ciência da Computação)
 * [Christina von Flach Garcia Chavez][prof7] (Departamento de Ciência da Computação)
@@ -34,7 +34,9 @@ title: Representantes
 <br>
 -->
 
-#### **Representantes docentes do DCC (em períodos anteriores)**
+### **Representantes docentes (em períodos anteriores)**
+
+#### **Representantes docentes do DCC **
 
 * [Luciano Rebouças de Oliveira][prof1] (Departamento de Ciência da Computação)
 * [Tiago de Oliveira Januario][prof2](Departamento de Ciência da Computação)
@@ -45,6 +47,10 @@ title: Representantes
 * [Karl Apaza Aguero][prof11] (Departamento de Ciência da Computação)
 * [Vaninha Vieira][prof12] (Departamento de Ciência da Computação)
 * [Vinicius Tavares Petrucci][prof14] (Departamento de Ciência da Computação)
+
+#### **Representantes docentes de outros departamentos da UFBA**
+
+<!-- Computação -->
 
 [prof1]:https://wiki.dcc.ufba.br/DCC/ProfLucianoReboucas
 [prof2]:https://wiki.dcc.ufba.br/DCC/ProfTiagoJanuario
@@ -61,7 +67,8 @@ title: Representantes
 [prof14]:https://wiki.dcc.ufba.br/DCC/ProfViniciusPetrucci
 [prof15]:https://computacao.ufba.br/pt-br/maycon-leone-maciel-peixoto
 
-#### ** Representantes de outros departamentos da UFBA **
+
+<!-- outros Departamentos -->
 
 [depmat1]:http://www.dmat.ufba.br/docentes/marcelo-dias-passos
 [dest1]:https://est.ufba.br/pt-br/gilberto-pereira-sassi
