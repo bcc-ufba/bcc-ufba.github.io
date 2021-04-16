@@ -52,7 +52,7 @@ title: Representantes
 [prof4]:https://wiki.dcc.ufba.br/DCC/ProfRobertoParente
 [prof5]:https://wiki.dcc.ufba.br/DCC/ProfRodrigoRocha
 [prof6]:https://computacao.ufba.br/pt-br/george-marconi-de-araujo-lima
-[prof7]:https://wiki.dcc.ufba.br/DCC/ProfChristinaFlach
+[prof7]:https://computacao.ufba.br/pt-br/christina-von-flach-garcia-chavez
 [prof8]:https://computacao.ufba.br/pt-br/lais-do-nascimento-salvador
 [prof9]:https://computacao.ufba.br/pt-br/steffen-lewitzka
 [prof10]:https://wiki.dcc.ufba.br/DCC/ProfMarcosBarreto
