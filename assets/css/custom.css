@@ -22,7 +22,7 @@ img {vertical-align: middle;}
   width:950px;
   height:300px;
   object-fit: cover;
-  bottom: 8px; 
+  bottom: 12px; 
 }
 /* Next & previous buttons */
 .prev, .next {
@@ -53,7 +53,6 @@ img {vertical-align: middle;}
 	font-size: 14px;
 	padding: 8px;
 	position: absolute;
-	bottom: 8px; 
 	width: 100%;
 	text-align: center;
   background: rgba(0,0,0,0.7);
@@ -61,7 +60,7 @@ img {vertical-align: middle;}
 
 .mySlides caption {
     position: absolute;
-    bottom: 0;
+	bottom: 8px; 
     left: 0;
     right: 0;
     background: rgba(0,0,0,0.7);
@@ -183,7 +182,7 @@ img {vertical-align: middle;}
 }
 
 .main-container {
-    max-width: 1000px;
+    max-width: 990px;
     margin: 0 auto;
     padding-left: 2%;
     padding-right: 2%;
