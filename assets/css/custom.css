@@ -22,6 +22,7 @@ img {vertical-align: middle;}
   width:950px;
   height:300px;
   object-fit: cover;
+  bottom: 8px; 
 }
 /* Next & previous buttons */
 .prev, .next {
@@ -52,7 +53,7 @@ img {vertical-align: middle;}
 	font-size: 14px;
 	padding: 12px;
 	position: absolute;
-	/* bottom: 8px; */
+	bottom: 8px; 
 	width: 100%;
 	text-align: center;
   background: rgba(0,0,0,0.7);
@@ -63,7 +64,6 @@ img {vertical-align: middle;}
     bottom: 0;
     left: 0;
     right: 0;
-    
     background: rgba(0,0,0,0.7);
     text-align: center;
     color: #fff; 
