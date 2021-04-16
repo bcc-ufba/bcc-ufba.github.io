@@ -18,9 +18,9 @@ title: Representantes
 * [Christina von Flach Garcia Chavez][prof7] (Departamento de Ciência da Computação)
 * [Lais do Nascimento Salvador][prof8] (Departamento de Ciência da Computação)
 * [Steffen Lewitzka][prof9] (Departamento de Ciência da Computação)
-* Gilberto Pereira Sassi (Departamento de Estatística)
-* Marcelo Passos (Departamento de Matemática)
-* Raphael Silva do Rosario (Instituto de Física)
+* [Gilberto Pereira Sassi][dest1] (Departamento de Estatística)
+* [Marcelo Dias Passos][depmat1] (Departamento de Matemática)
+* [Raphael Silva do Rosario][fisica1] (Instituto de Física)
 
 <br>
 
@@ -60,3 +60,9 @@ title: Representantes
 [prof12]:https://wiki.dcc.ufba.br/DCC/ProfVaninhaVieira
 [prof14]:https://wiki.dcc.ufba.br/DCC/ProfViniciusPetrucci
 [prof15]:https://computacao.ufba.br/pt-br/maycon-leone-maciel-peixoto
+
+#### ** Representantes de outros departamentos da UFBA **
+
+[depmat1]:http://www.dmat.ufba.br/docentes/marcelo-dias-passos
+[dest1]:https://est.ufba.br/pt-br/gilberto-pereira-sassi
+[fisica1]:http://www.fis.ufba.br/raphael-silva-do-rosario
