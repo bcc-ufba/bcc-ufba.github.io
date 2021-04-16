@@ -14,7 +14,7 @@ img {vertical-align: middle;}
   display: block;
   max-width: 990px;
   height: 100%;
-  max-height: 330px;
+  max-height: 350px;
   margin: 0 auto;
 }
 
@@ -22,7 +22,7 @@ img {vertical-align: middle;}
   width:950px;
   height:300px;
   object-fit: cover;
-  bottom: 12px; 
+  bottom: 8px; 
 }
 /* Next & previous buttons */
 .prev, .next {
@@ -51,7 +51,7 @@ img {vertical-align: middle;}
 .text {
 	color: #f2f2f2;
 	font-size: 14px;
-	padding: 8px;
+	padding: 6px;
 	position: absolute;
 	width: 100%;
 	text-align: center;
@@ -60,13 +60,13 @@ img {vertical-align: middle;}
 
 .mySlides caption {
     position: absolute;
-	bottom: 8px; 
+	bottom: 6px; 
     left: 0;
     right: 0;
     background: rgba(0,0,0,0.7);
     text-align: center;
     color: #fff; 
-    padding: 10px;
+    padding: 8px;
 }
 
 /* The dots/bullets/indicators */
@@ -74,7 +74,7 @@ img {vertical-align: middle;}
 	cursor: pointer;
 	height: 13px;
 	width: 13px;
-	margin: 0 2px;
+	margin: 1px 2px;
 	background-color: #bbb;
 	border-radius: 50%;
 	display: inline-block;
@@ -105,25 +105,32 @@ img {vertical-align: middle;}
   .text {font-size: 11px}
 }
 
-.pagination a, .pagination span {
+.pagination {
+    text-align: center;
+}
+
+.pagination a {
     padding: 7px 18px;
     border: 1px solid #eee;
     margin-left: -2px;
     margin-right: -2px;
     background-color: #ffffff;
     display: inline-block;
-  }
+}
 
-.pagination a {    
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
- }
+.pagination a:hover {
+    background-color: #f1f1f1;
+    color: #333;
+}
 
-.pagination {
-    text-align: center;
- }
+.pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+}
 
  /*DROPDOWN*/
 .dropbtn {
