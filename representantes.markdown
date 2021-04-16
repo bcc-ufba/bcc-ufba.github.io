@@ -3,14 +3,12 @@ layout: pagelink
 title: Representantes
 ---
 
-
 ### **Coordenação**
 
 * Coordenador: [Maycon Leone Maciel Peixoto][prof15] (Departamento de Ciência da Computação)
 
 * Vice-Coordenador: [George Marconi de Araújo Lima][prof6] (Departamento de Ciência da Computação)
 
-<br>
 
 ### **Representantes docentes**
 
@@ -22,7 +20,6 @@ title: Representantes
 * [Marcelo Dias Passos][depmat1] (Departamento de Matemática)
 * [Raphael Silva do Rosario][fisica1] (Instituto de Física)
 
-<br>
 
 <!--
 #### **Coordenação (Setembro 2020-Março 2021)**
@@ -36,7 +33,7 @@ title: Representantes
 
 ### **Representantes docentes (em períodos anteriores)**
 
-#### **Representantes docentes do DCC**
+#### **- Representantes docentes do DCC**
 
 * [Luciano Rebouças de Oliveira][prof1] (Departamento de Ciência da Computação)
 * [Tiago de Oliveira Januario][prof2](Departamento de Ciência da Computação)
@@ -48,7 +45,7 @@ title: Representantes
 * [Vaninha Vieira][prof12] (Departamento de Ciência da Computação)
 * [Vinicius Tavares Petrucci][prof14] (Departamento de Ciência da Computação)
 
-#### **Representantes docentes de outros departamentos da UFBA**
+#### **- Representantes docentes de outros departamentos da UFBA**
 
 <!-- Computação -->
 
