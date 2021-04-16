@@ -36,7 +36,7 @@ title: Representantes
 
 ### **Representantes docentes (em períodos anteriores)**
 
-#### **Representantes docentes do DCC **
+#### **Representantes docentes do DCC**
 
 * [Luciano Rebouças de Oliveira][prof1] (Departamento de Ciência da Computação)
 * [Tiago de Oliveira Januario][prof2](Departamento de Ciência da Computação)
